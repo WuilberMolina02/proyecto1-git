@@ -32,3 +32,8 @@ button {
  cursor: pointer;
  width: 100%;
 }
+
+.card {
+    border: 2px solid #ef4444;
+box-shadow: 0 0 20px rgba(239, 68, 68, 0.4);
+}
